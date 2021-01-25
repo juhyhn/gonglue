@@ -1,0 +1,38 @@
+.zixun{
+	width: 16rem;
+	height: 61.835748rem;
+	padding: 0 0.463768rem;
+	box-sizing: border-box;
+}
+.zixun .content{
+	height: 7.458937rem;
+	margin-bottom: 0.966183rem;
+	background-color: #F3F3F7;
+	padding: 0.772946rem 0.772946rem 0 0.772946rem;
+	box-sizing: border-box;
+}
+.zixun .content h2{
+	font-size: 0.772946rem;
+	margin-bottom: 0.695652rem;
+}
+.zixun .content p{
+	color: #7A7A7A;
+	line-height: 1.00483rem;
+	font-size: 0.618357rem;
+}
+.zixun .content .shijian{
+	height: 2.125603rem;
+	margin-top: 0.772946rem;
+	border-top: 1px solid #E6E8EE;
+}
+.zixun .content .shijian span{
+	line-height: 2.125603rem;
+	display: inline-block;
+	font-size: 0.618357rem;
+}
+.zixun .content .shijian hr{
+	width: 1.082125rem;
+	display: inline-block;
+	margin-top: 0.966183rem;
+	margin-left: 4.521739rem;
+}

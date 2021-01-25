@@ -1,0 +1,24 @@
+.rongyu{
+	width: 16rem;
+	height: 76.521739rem;
+	padding: 0 1.00483rem;
+	box-sizing: border-box;
+}
+.rongyu .jietu{
+	height: 11.400966rem;
+	border: 1px solid #E3E3E3;
+	background: url(../img/jiantou.png) no-repeat 0.57971rem 10.434782rem;
+	margin-bottom: 0.772946rem;
+}
+.rongyu .jietu .img{
+	width: 13.913043rem;
+	height: 8.695652rem;
+	margin-bottom: 0.57971rem;
+}
+.rongyu .jietu .img img{
+	width: 100%;
+	height: 100%;
+}
+.rongyu .jietu p{
+	text-indent: 1em;
+}

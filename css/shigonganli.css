@@ -1,0 +1,64 @@
+.pai{
+	width: 16rem;
+	height: 4.830917rem;
+	padding: 0 0.463768rem;
+	box-sizing: border-box;
+}
+.pai ol li{
+	width: 4.637681rem;
+	height: 1.545893rem;
+	float: left;
+	background-color: #F3F3F3;
+	margin-right: 0.57971rem;
+	margin-bottom: 0.57971rem;
+	text-align: center;
+	line-height: 1.545893rem;
+}
+.pai ol li a{
+	color: #626262;
+}
+.pai ol li:nth-child(3){
+	margin-right: 0;
+}
+.pai ol .active{
+	background-color: #165FE6;
+}
+.pai ol .active a{
+	color: #fff;
+}
+.anli{
+	width: 16rem;
+	height: 78.840579rem;
+	box-sizing: border-box;
+	padding: 0 0.695652rem;
+}
+.anli .content{
+	height: 14.222222rem;
+	margin-bottom: 0.966183rem;
+	background-color: #F3F4F8;
+}
+.anli .content .img{
+	width: 14.608695rem;
+	height: 9.893719rem;
+	margin-bottom: 0.695652rem;
+}
+.anli .content .img img{
+	width: 100%;
+	height: 100%;
+}
+.anli .content span,p{
+	padding-left: 0.772946rem;
+	box-sizing: border-box;
+}
+.anli .content span{
+	color: #999;
+	display: inline-block;
+	margin-bottom:8px;
+}
+.anli .content p{
+	color: #333333;
+	line-height: 26px;
+}
+.anli .content p a{
+	color: #333333;
+}

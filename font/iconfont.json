@@ -1,0 +1,107 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1915555",
+      "name": "人",
+      "font_class": "ren",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "2392556",
+      "name": "销量",
+      "font_class": "xiaoliang",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "4287378",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "5421022",
+      "name": "山",
+      "font_class": "shan",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "5839564",
+      "name": "环保",
+      "font_class": "huanbao",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "6684369",
+      "name": "纸飞机",
+      "font_class": "zhifeiji",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "7068463",
+      "name": "盾",
+      "font_class": "dun",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "8740343",
+      "name": "方案",
+      "font_class": "tubiao_fangan",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "10354215",
+      "name": "电 话",
+      "font_class": "dianhua",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "11416895",
+      "name": "奖杯",
+      "font_class": "jiangbei",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "12154988",
+      "name": "二维码",
+      "font_class": "qrcode1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "14115383",
+      "name": "电 话",
+      "font_class": "dianhua1",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "16294337",
+      "name": "菜单",
+      "font_class": "toggle-copy",
+      "unicode": "e509",
+      "unicode_decimal": 58633
+    },
+    {
+      "icon_id": "17010677",
+      "name": "上升",
+      "font_class": "shangsheng",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    }
+  ]
+}

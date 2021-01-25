@@ -1,0 +1,77 @@
+.wenhua{
+	width: 16rem;
+	height: 43.671497rem;
+	padding: 0 0.463768rem;
+	box-sizing: border-box;
+}
+.wenhua h4{
+	text-align: center;
+	font-size: 0.772946rem;
+	font-weight: bold;
+	margin-bottom: 0.309178rem;
+}
+.wenhua span{
+	color: #CAC8C8;
+}
+.wenhua .tiao{
+	width: 2.202898rem;
+	height: 3px;
+	background-color: #1C6BE6;
+	margin: 0.618357rem auto;
+}
+.wenhua p{
+	text-indent: 2em;
+	line-height: 1.082125rem;
+}
+.wenhua .xiaolue{
+	height: 11.671497rem;
+	margin-top: 0.966183rem;
+}
+.wenhua .xiaolue .top{
+	height: 5.642512rem;
+}
+.wenhua .xiaolue .top .tubiao{
+	width: calc(50%);
+	height: 5.642512rem;
+}
+.wenhua .xiaolue .tubiao p{
+	text-align: center;
+	text-indent: 0;
+	line-height: 36px;
+}
+.wenhua .xiaolue .tubiao .quan{
+	width: 3.787439rem;
+	height: 3.787439rem;
+	background-color: #fff;
+	border: 1px solid #1C6BE6;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.wenhua .xiaolue .tubiao span{
+	text-align: center;
+	display: block;
+	background-color: #1C6BE6;
+	width: 3.400966rem;
+	height: 3.400966rem;
+	border-radius: 50%;
+	line-height: 3.400966rem;
+	font-size: 1.545893rem;
+	color: #fff;
+	margin: 0.193236rem auto;
+}
+.wenhua .xiaolue .bottom{
+	height: 6.028985rem;
+}
+.wenhua .xiaolue .bottom .tubiao{
+	width: calc(33%);
+	height: 6.028985rem;
+}
+.wenhua .img{
+	width: 15.072463rem;
+	height: 5.603864rem;
+	margin-bottom: 0.772946rem;
+}
+.wenhua .img img{
+	width: 100%;
+	height: 100%;
+}

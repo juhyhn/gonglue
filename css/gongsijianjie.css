@@ -1,0 +1,136 @@
+.chuanmei{
+	height: 21.256038rem;
+	width: 16rem;
+	padding: 0 0.463768rem;
+	box-sizing: border-box;
+}
+.chuanmei h3{
+	font-size: 0.772946rem;
+	margin-bottom: 0.734299rem;
+}
+.chuanmei h3 span{
+	color: #1259E5;
+}
+.chuanmei p{
+	font-size: 0.618357rem;
+	line-height: 1.00483rem;
+}
+.chuanmei .si{
+	height: 16.231884rem;
+	margin-top: 20px;
+}
+.chuanmei .si .top{
+	height: 7.149758rem;
+	margin-bottom: 0.772946rem;
+}
+.chuanmei .si .top .t1{
+	width: 7.149758rem;
+	height: 7.149758rem;
+	margin-right: 0.772946rem;
+	background-color: #F3F4F8;
+}
+.chuanmei .si .top .t1:nth-child(2){
+	margin-right: 0;
+}
+.chuanmei .si .top .t1 span,em,b{
+	display: inline-block;
+	width: 7.149758rem;
+	text-align: center;
+}
+.chuanmei .si .top .t1 span{
+	font-size: 1.468599rem;
+	margin: 1.275362rem 0 0.772946rem 0;
+}
+.chuanmei .si .top .t1 em{
+	font-size: 16px;
+	margin-bottom: 0.57971rem;
+}
+.chuanmei .si .top .t1 b{
+	font-size: 20px;
+}
+/* rexian */
+.rexian{
+	height: 12.908212rem;
+	width: 16rem;
+	background-color: #226BE7;
+	color: #E2EBFC;
+	padding: 0 0.463768rem;
+	box-sizing: border-box;
+	margin-bottom: 1.15942rem;
+}
+.rexian h3{
+	height: 3.014492rem;
+	border-bottom: 1px solid #83A8F2;
+	line-height: 0.966183rem;
+	padding-top: 0.57971rem;
+	box-sizing: border-box;
+	margin-bottom: 0.502415rem;
+}
+.rexian h5{
+	color: #ddd;
+	font-size: 0.463768rem;
+	margin-top: 0.386473rem;
+}
+.rexian .dianhua{
+	width: 14.299516rem;
+	height: 4.79227rem;
+	margin: 0 auto;
+	border:1px solid #296EE8;
+	margin-top: 1.15942rem;
+}
+.rexian .dianhua .top{
+	width: 6.570048rem;
+	height: 43px;
+	margin: 0 auto;
+	margin-bottom: 0.347826rem;
+}
+.rexian .dianhua .top .left{
+	width: 1.661835rem;
+	height: 1.661835rem;
+	border-radius: 3px;
+	background-color: #fff;
+	margin-right: 0.772946rem;
+}
+.rexian .dianhua .top .left span{
+	color: #296EE8;
+	font-size: 32px;
+	width: 1.661835rem;
+	display: inline-block;
+	text-align: center;
+	line-height: 1.661835rem;
+}
+.rexian .dianhua .top .right p{
+	margin-bottom: 5px;
+	text-align: left;
+}
+.rexian .dianhua .button{
+	width: 13.294685rem;
+	height: 1.429951rem;
+	border: 1px solid #fff;
+	margin: 0 auto;
+	text-align:center;
+}
+.rexian .dianhua .button a{
+	display: inline-block;
+	line-height: 1.429951rem;
+	color: #fff;
+}
+/* wenben */
+.wenben{
+	padding: 0 0.463768rem;
+	box-sizing: border-box;
+}
+.wenben p{
+	text-indent: 2em;
+	line-height: 0.927536rem;
+	margin-bottom: 0.772946rem;
+}
+.wenben .img{
+	width: 15.072463rem;
+	height: 15.806763rem;
+	margin-bottom: 0.772946rem;
+}
+.wenben .img img{
+	width: 100%;
+	height: 100%;
+}

@@ -1,0 +1,96 @@
+.fangshi{
+	width: 16rem;
+	height: 32.077294rem;
+	padding: 0 0.463768rem;
+	box-sizing: border-box;
+	margin-top: 1.15942rem;
+}
+.fangshi .dianhua{
+	height: 3.47826rem;
+	margin-bottom: 22px;
+}
+.fangshi .dianhua1{
+	height: 2.89855rem;
+}
+.fangshi .dianhua h3,.dianhua1 h3{
+	color: #333;
+	font-size: 0.695652rem;
+	margin-bottom: 15px;
+}
+.fangshi .dianhua p,.dianhua1 p{
+	margin-top: 8px;
+	color: #918F8F;
+}
+.fangshi .dianhua p a,.dianhua1 p a{
+	color: #918F8F;
+}
+.fangshi .img{
+	width: 15.072463rem;
+	height: 11.05314rem;
+	margin-bottom: 0.772946rem;
+}
+.fangshi .img img{
+	width: 100%;
+	height: 100%;
+}
+.fangshi .dizhi{
+	height: 4.173913rem;
+	background-color: #1159E5;
+	border-radius: 0.309178rem;
+	padding: 0.772946rem 0 0 0.502415rem;
+	box-sizing: border-box;
+	position: relative;
+	margin-bottom: 0.657004rem;
+}
+.fangshi .dizhi h3{
+	color: #fff;
+	font-size: 0.772946rem;
+	margin-bottom: 0.309178rem;
+}
+.fangshi .dizhi p{
+	color: #A4C0F5;
+	font-size: 0.618357rem;
+	margin-bottom: 0.115942rem;
+}
+.fangshi .dizhi .fang{
+	width: 1.855072rem;
+	height: 1.855072rem;
+	background-color: #1159E5;
+	border-radius: 0.309178rem;
+	transform: rotate(45deg);
+	display: inline-block;
+	position: absolute;
+	top: 0;left: 6.570048rem;
+}
+.fangshi .erweima{
+	height: 8.115942rem;
+}
+.fangshi .erweima .ma{
+	width: 6.492753rem;
+	height: 6.492753rem;
+	border:1px solid #E1DFDF;
+	padding: 7px 6px;
+	box-sizing: border-box;
+}
+.fangshi .erweima .ma img{
+	width: 5.990338rem;
+	height: 5.990338rem;
+}
+.fangshi .erweima .con{
+	width: 6.492753rem;
+	height: 8.115942rem;
+	margin-right: 1.73913rem;
+}
+.fangshi .erweima .con:nth-child(2){
+	margin-right: 0;
+}
+.fangshi .erweima .con p{
+	text-align: center;
+	margin-top: 0.463768rem;
+}
+.footer .cebian{
+	top: -10.328502rem;right: 0.463768rem;
+}
+.fangshi .erweima .con p a{
+	color: #000;
+}
